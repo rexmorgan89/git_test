@@ -1,1 +1,2 @@
 Lorem ipsum filler
+Here is yet another change in another file.
